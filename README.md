@@ -2,4 +2,4 @@ Simon's Stamp Collection App
 ---
 #About
 
-Stuff about Simon's Stamp Collection YEAH
+Stuff about Simon's Stamp Collection NOO
